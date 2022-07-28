@@ -4,7 +4,7 @@ I am currently a student of WEB DEVELOPMENT, with a focus on FRONT END.
 
 
 
-## The tools/language that I have implemented the most are:
+### The tools/language that I have implemented the most are:
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -15,15 +15,15 @@ I am currently a student of WEB DEVELOPMENT, with a focus on FRONT END.
 
 
 
-## Top languages
+### Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glorialunar&layout=compact)](https://github.com/glorialunar/github-readme-stats)
 
 
 
-## I'm currently learning with:
+### I'm currently learning with:
 ![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white) ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) ![Freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) ![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
 
 
 
-## You can reach me in:
+### You can reach me in:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glunar/)
