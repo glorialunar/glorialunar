@@ -18,4 +18,4 @@ The tools/language that I have implemented the most are:
 
 ## You can reach me in:
 
-![Linkedin](https://www.linkedin.com/in/glunar/)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
