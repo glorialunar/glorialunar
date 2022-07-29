@@ -1,7 +1,7 @@
 <body align="center">
-  <h1> Hi there 👋, i am **Gloria**🚀 </h1>
+  <h1> Hi there 👋, i am **Gloria**🚀 <h1>
 
-  <p>I am currently a student of WEB DEVELOPMENT, with a focus on FRONT END.</p>
+  <p>I am currently a student of WEB DEVELOPMENT, with a focus on FRONT END.<p>
 
 
 
@@ -16,17 +16,18 @@
 
 
 
-   <h2 align="center"> Top languages </h2>
+   <h2 align="center"> Top languages <h2>
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glorialunar&layout=compact)](https://github.com/glorialunar/github-readme-stats)
 
 
 
-    <h2 align="center"> I'm currently learning with: </h2>
+    <h2 align="center"> I'm currently learning with: <h2>
 ![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white) ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) ![Freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) ![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
 
 
 
-  <h2 align="center">  You can reach me in: </h2>
+  <h2 align="center">  You can reach me in: <h2>
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glunar/)
   
-  </body>
+  <body>
